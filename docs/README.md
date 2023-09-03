@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The active running bot can be found at the URL -- [Grammar-Bot] (https://bot.textbase.ai/ankurdey429/grammar-bot)
 
 ### Installation
 
